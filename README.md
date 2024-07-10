@@ -1,3 +1,4 @@
 # NishNovae.github.io
 
-## this is a readme!!!
+### VERSION
+- 1.4.0 : KIA
