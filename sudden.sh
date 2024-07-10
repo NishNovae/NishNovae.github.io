@@ -3,8 +3,10 @@
 FILE=~/tmp/_SUDDEN
 
 while true
-    do
-		echo "check"
-		sleep 3
-	done
+do
+	if [ $FILE ]; then	
+		echo "SUDDEN!!"
+	sleep 3
+	fi
+done
 
