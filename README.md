@@ -1,3 +1,5 @@
 # NishNovae.github.io
 
-## this is a readme!!!
+### VERSION
+- 1.4.0 : KIA
+- 1.5.0 : Hyundai 
