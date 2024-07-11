@@ -10,7 +10,6 @@ do
 		echo $DATE SUDDEN!!!
 	else
 		clear
-		figlet KIA
 		DATE=$(date +"%y%m%d %H:%M:%S")
 		echo $DATE
 	fi
