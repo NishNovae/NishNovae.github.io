@@ -4,7 +4,7 @@ FILE=~/tmp/_SUDDEN
 
 while true
 do
-	if [ $FILE ]; then	
+	if [ -e "$FILE" ]; then	
 		echo "SUDDEN!!"
 	sleep 3
 	fi
